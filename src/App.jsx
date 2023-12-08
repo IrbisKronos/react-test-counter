@@ -6,18 +6,18 @@ function App() {
   return (
     <div className="App">
       <div>
-        <h2>Лічільник:</h2>
+        <h2>Counter:</h2>
         <h1>{count}</h1>
 
         <button className="minus"
           onClick={() => { setCount((prev) => prev - 1) }}>
-          Мінус -
+          Minus -
         </button>
 
         <button
           className="plus"
           onClick={() => { setCount((prev) => prev + 1) }}>
-          Плюс +
+          Plus +
         </button>
       </div>
     </div>
