@@ -12,7 +12,7 @@ This is a small web page project for a counter that can increment and decrement 
 
 1. Open at the link:
 
-[[https://irbiskronos.github.io/react-test-counter/]]
+https://irbiskronos.github.io/react-test-counter/
 
 2. Click the "Increment" and "Decrement" buttons, observing changes in the counter.
 
